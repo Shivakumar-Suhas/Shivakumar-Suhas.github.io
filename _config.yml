@@ -132,7 +132,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  experience:
+  experiences:
     output: true
     permalink: /experiences/:path/
 
