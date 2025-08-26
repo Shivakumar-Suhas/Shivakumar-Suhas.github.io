@@ -7,20 +7,18 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Suhas M Shivakumar # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Suhas Shivakumar
+headline: Aerospace Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Recent MSc graduate in Aerospace Engineering from the Technical University of Munich with a strong focus on aircraft structural design and analysis. Experienced in finite element modeling (ABAQUS, ANSYS), structural optimization, and mechanical testing of composite materials (CFRP, 3D woven laminates). Proficient in translating complex structural requirements into computational models, performing FEA-based failure analysis, and validating designs through hands-on testing campaigns. Skilled in multi-disciplinary project execution, including collaboration with industrial partners on advanced aerospace structures. Passionate about leveraging simulation and experimental data to improve structural performance and reliability in aerospace applications.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/avatar1.jpeg
 
 
 # Link your resume
@@ -47,38 +45,26 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
     - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
     - Siemens NX
-    - Inventor (Autodesk)
+    - 3DExperience
     - CATIA (Dassault Systèmes)
-  - category: Prototyping
+  - category: Engineering Analysis Tools
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
+    - ANSYS Mechanical
+    - ANSYS Fluent
+    - ABAQUS CAE
+    - 3DExperience
   - category: Design Standards / Practices
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - Aircraft Structures CS-23/CS-25
+    - Space Standards ECSS-E-HB-32-20
+    - Composites ASTM, ISO, DIN   
+  - category: Programming Tools
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
+    - Matlab
+    - Python
+    - C++ 
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
