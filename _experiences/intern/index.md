@@ -9,7 +9,7 @@ skills:
   - PCB analysis
   - audio system design
 
-main-image: /intern.png
+main-image: /intern.jpeg
 ---
 
 # This is another demo
