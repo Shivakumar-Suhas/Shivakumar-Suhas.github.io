@@ -154,6 +154,7 @@ plugins:
 
 include:
   - _projects
+  - _experiences
 
 
 # Exclude from processing.
