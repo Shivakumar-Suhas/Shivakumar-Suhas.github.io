@@ -15,7 +15,7 @@ title: Suhas M Shivakumar # This is what shows up in the tab of the browser
 name: Suhas Shivakumar
 headline: Aerospace Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Recent MSc graduate in Aerospace Engineering from the Technical University of Munich with a strong focus on aircraft structural design and analysis. Experienced in finite element modeling (ABAQUS, ANSYS), structural optimization, and mechanical testing of composite materials (CFRP, 3D woven laminates). Proficient in translating complex structural requirements into computational models, performing FEA-based failure analysis, and validating designs through hands-on testing campaigns. Skilled in multi-disciplinary project execution, including collaboration with industrial partners on advanced aerospace structures. Passionate about leveraging simulation and experimental data to improve structural performance and reliability in aerospace applications.
+  MSc Aerospace Engineering graduate from the Technical University of Munich, specializing in composite material development and structural design. Skilled in FEA (ABAQUS, ANSYS), structural optimization, development and testing of CFRP and woven laminates. Passionate about integrating design, manufacturing, and validation to deliver reliable, high-performance aerospace structures.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar1.jpeg
@@ -29,9 +29,9 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: Suhas    # https://www.linkedin.com/in/suhas-m-shivakumar-557ba7192 
+  github:     # https://github.com/{your url slug} 
+  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
