@@ -1,50 +1,42 @@
 ---
 layout: post
-title: "Machine Learning-Driven Prediction of Material Properties for AFP Laminates with Defects"
-description: "Characterized AFP laminates with gaps/overlaps (tension, bending, compression), built ABAQUS ply-level models with explicit defect geometries, Hashin initiation, and VCCT/CZM delamination. Achieved ~92.7% correlation to tests; automated workflows (MATLAB/Python) and trained an ANN (R²=0.97, MAE=0.0225) for rapid property prediction."
+title: "Structural and Modal Analysis of Composite Rotor Blades"
+description: "CATIA-based rotor geometry and ply-level FEM in ABAQUS using a [0/±45/90]s carbon/epoxy layup; structural simulations for hover and cyclic loading with modal analysis of flap/lag/torsion. Achieved ~28% weight reduction vs metallic baseline while maintaining FOS ≥ 2 (Hashin)."
 skills: 
-  - AFP (Automated Fiber Placement)
-  - Failure analysis
-  - ABAQUS
-  - VCCT/CZM
-  - Python & MATLAB scripting
-  - Structural testing
-  - Fracture mechanics
-  - Data analysis
-  - Material characterization
-main-image: /images/afp_defects_ml/main.jpg
+  - Composite structures
+  - FEM (ABAQUS)
+  - CATIA V5
+  - Modal analysis
+  - Rotordynamics
+  - Structural analysis
+  - CAD modeling
+main-image: /images/rotor_blade/main.jpg
 ---
 
-## Background
-AFP introduces **manufacturing defects** (gaps, overlaps, tow drops) that can degrade stiffness and strength. Understanding **defect tolerance** requires consistent testing and validated FE models.
+## Overview
+This study evaluates a **carbon/epoxy composite rotor blade** relative to a metallic baseline, targeting **mass reduction** while preserving **strength and dynamic performance**.
 
-## Objectives
-- Quantify stiffness/strength knockdowns for **gaps and overlaps** under **tension/compression/bending**.  
-- Create **ply-level ABAQUS models** with explicit defect geometry and inter/intralaminar failure.  
-- Provide **allowables/knockdown curves** and a fast-running predictor.
+## Model Definition
+- **CAD:** detailed planform/twist/airfoil geometry in **CATIA V5**.  
+- **Layup:** **[0/±45/90]s** (spar/skin tailored for torsion/bending).  
+- **Material:** carbon/epoxy with orthotropic properties.
 
-## Experimental Program
-- Coupons: pristine vs. defective; six configurations by **defect type/location**.  
-- Outputs: stress–strain, strength, stiffness; fracture observations (initiation/propagation).
+## Loads & Boundary Conditions
+- **Hover** and **cyclic** operational envelopes considered.  
+- Root boundary conditions to reflect hub constraints.
 
-## Simulation & Automation
-- **FEA:** Hashin failure initiation + damage evolution (intralaminar), **VCCT/CZM** for delamination (interlaminar).  
-- **Batch automation:** geometry/mesh/material/BC scripting in **Python/MATLAB**; Excel/CSV export for comparison.  
-- **Validation:** ~**92.7%** correlation (strength/stiffness/load–displacement).
+## Analyses
+- **Static strength** with **Hashin** failure initiation and progressive damage.  
+- **Modal analysis:** extraction of flap/lag/torsion modes and mode shapes.
 
-## Surrogate Model (ANN)
-- ANN trained on **synthetic data** from validated FE; achieved **R² = 0.97**, **MAE = 0.0225** across load cases.  
-- Use case: rapid screening of **defect size/location** impacts on laminate properties.
-
-## Results
-- **Residual-strength knockdown curves** vs. defect size & location.  
-- Process insight for **defect-tolerant design** and **NC programming** of AFP to minimize critical defects.
-
-## Images
-{% include image-gallery.html images="/images/afp_defects_ml/coupons.jpg, /images/afp_defects_ml/mesh_defect.jpg, /images/afp_defects_ml/correlation_plots.jpg" height="400" %}
+## Results & Metrics
+- **~28% weight reduction** vs metallic baseline.  
+- **FOS ≥ 2** across operating cases (Hashin checks).  
+- Modal analysis confirms adequate separation of primary modes for stability.
 
 ## Notes
-- The **cohesive/VCCT** setup captures **crack initiation and growth** across interfaces.  
-- NC programs for AFP layup were prepared to **introduce controlled defects** for testing.
+- Further extensions can include **aeroelastic coupling** and **transient loads** (maneuver/cycling), as needed.  
+- Manufacturing constraints (ply drape, minimum steering radii) can be integrated as a follow-on.
+
 
 
