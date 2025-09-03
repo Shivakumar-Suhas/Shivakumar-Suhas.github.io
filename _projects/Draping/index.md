@@ -12,6 +12,6 @@ skills:
   - Data analysis
   - Stress analysis
   - Scientific writing
-main-image: /ml_draping.jpg
+main-image: /ml_draping.JPG
 ---
 
