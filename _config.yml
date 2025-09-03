@@ -55,6 +55,8 @@ skills:
     - ANSYS Fluent
     - ABAQUS CAE
     - 3DExperience
+    - ACP 
+    - MSC Nastran
   - category: Design Standards / Practices
     tools:
     - Aircraft Structures CS-23/CS-25
@@ -65,12 +67,17 @@ skills:
     - Matlab
     - Python
     - C++ 
-  - category: Problem Solving / Risk Management
+  - category: Engineering Competencies
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+    - Static and Dynamic Structural Analysis
+    - Finite Element Method
+    - Structural Design
+    - Material Characterization of Composites
+    - Analytical stress calculation(HSB, Niu, Bruhn)
+    - Fracture Mechanics
+    - Composite Modeling 
+    - Delamination and Damage Tolerance Modeling
+    - Thermal Analysis
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
