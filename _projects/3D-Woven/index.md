@@ -13,6 +13,6 @@ skills:
   - Material characterization
   - Structural testing
   - Scientific writing
-main-image: /images/3d_woven.png
+main-image: /3d_woven.png
 ---
 
