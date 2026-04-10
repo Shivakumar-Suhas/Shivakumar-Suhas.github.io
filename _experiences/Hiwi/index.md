@@ -1,16 +1,25 @@
 ---
 layout: post
 title: "Research Assistant at LCC(Lehrstuhl für Carbon Composites), TUM"
-description: "During my tenure as a **Research Assistant at the Lehrstuhl für Carbon Composites (LCC), TUM**, I was involved in the **end-to-end development, manufacturing, and validation of aerospace-grade CFRP structures**. My work spanned **composite processing, experimental characterization, numerical simulation, and failure analysis**, contributing to both academic research and industry-driven applications."
+description: "CFRP manufacturing, mechanical and cryogenic testing, FEA-based damage modeling, and failure analysis for aerospace structures, with industrial collaboration (MTU, WARR)."
 skills:
-  - CFRP manufacturing
-  - VARTM / AFP / Filament Winding
-  - Mechanical Testing (Tension, Compression, Bending, Fatigue, Cryogenic)
-  - ABAQUS / ANSYS Simulation
-  - Digital Image Correlation (DIC)
-  - Microscopy / SEM
-  - High-speed impact analysis
-  - Aerospace standards compliance (ASTM, ECSS, Airbus AIPI, FAA, EASA)
+  - CFRP Manufacturing (VARTM, AFP, Filament Winding)
+  - Composite Process Optimization
+  - Mechanical Testing (Tension, Compression, Bending, Fatigue)
+  - Cryogenic Testing (–170°C)
+  - Interlaminar Shear & Fracture Testing (ILSS, Mode I/II)
+  - High-Speed Impact Testing
+  - Digital Image Correlation (2D/3D DIC)
+  - Finite Element Analysis (ABAQUS, ANSYS)
+  - Damage & Failure Modeling (Matrix Cracking, Delamination, Cohesive Zone Modeling)
+  - Draping & Forming Simulation (Wrinkling, Shear Behavior, SNEG Analysis)
+  - Open Hole Tension (OHT) Simulation
+  - Microscopy & SEM (Fractography, Fiber Volume Fraction)
+  - Composite Failure Analysis & Defect Characterization
+  - Data Analysis & Model Validation
+  - Aerospace Standards (ASTM, DIN EN ISO, ECSS, Airbus AIPI, FAA, EASA)
+  - Experimental Test Planning & Execution
+  - Industry Collaboration (MTU, WARR)
 main-image: /LCC.jpg
 ---
 
