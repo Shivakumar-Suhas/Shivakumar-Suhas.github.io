@@ -11,7 +11,7 @@ skills:
   - Microscopy / SEM
   - High-speed impact analysis
   - Aerospace standards compliance (ASTM, ECSS, Airbus AIPI, FAA, EASA)
-main-image: /images/cfrp_laminates/main.jpg
+main-image: /LCC.jpg
 ---
 
 ## Overview
