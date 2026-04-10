@@ -18,7 +18,7 @@ skills:
   - Root Cause Analysis (RCA)
   - Cross-functional Engineering Coordination
 
-main-image: /images/adithya/structure_main.png
+main-image: /aerospace.png
 ---
 
 ## Overview
