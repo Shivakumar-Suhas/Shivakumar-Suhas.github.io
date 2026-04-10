@@ -8,16 +8,14 @@ skills:
   - Mechanical Testing (Tension, Compression, Bending, Fatigue)
   - Cryogenic Testing (–170°C)
   - Interlaminar Shear & Fracture Testing (ILSS, Mode I/II)
-  - High-Speed Impact Testing
   - Digital Image Correlation (2D/3D DIC)
   - Finite Element Analysis (ABAQUS, ANSYS)
-  - Damage & Failure Modeling (Matrix Cracking, Delamination, Cohesive Zone Modeling)
-  - Draping & Forming Simulation (Wrinkling, Shear Behavior, SNEG Analysis)
-  - Open Hole Tension (OHT) Simulation
+  - Damage & Failure Modeling 
+  - Draping & Forming Simulation
   - Microscopy & SEM (Fractography, Fiber Volume Fraction)
   - Composite Failure Analysis & Defect Characterization
   - Data Analysis & Model Validation
-  - Aerospace Standards (ASTM, DIN EN ISO, ECSS, Airbus AIPI, FAA, EASA)
+  - Aerospace Standards (ASTM, DIN EN ISO, ECSS, FAA, EASA)
   - Experimental Test Planning & Execution
   - Industry Collaboration (MTU, WARR)
 main-image: /LCC.jpg
