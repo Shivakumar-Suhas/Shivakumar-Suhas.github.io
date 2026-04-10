@@ -55,10 +55,11 @@ This project focused on the **design, manufacturing, and characterization of aer
 - **Split disk test:** Post-failure specimen showing fracture behavior under radial loading.
 
 ### Simulation & Failure Analysis
-{% include image-gallery.html images="/images/cfrp_laminates/OHTsimu.png, /images/cfrp_laminates/surfacemicro.png" height="350" %}
+{% include image-gallery.html images="/OHTsimu.png, /surfacemicro.png, /drapingsimu.png" height="350" %}
 
 - **OHT simulation:** Open Hole Tension results showing matrix cracking and cohesive delamination damage.  
 - **Surface microscopy:** Fracture surface analysis revealing fiber-matrix failure mechanisms.
+- **Draping Simulation:** Curved CFRP fabric profile showing **SNEG (negative shear strain)** distribution, used to identify wrinkling-prone regions and optimize layup strategy.
 
 ---
 
