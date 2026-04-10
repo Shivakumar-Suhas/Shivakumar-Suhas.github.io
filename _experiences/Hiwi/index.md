@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research Assistant at LCC(Lehrstuhl für Carbon Composites), TUM"
-description: "Designed and manufactured aerospace CFRP laminates via VARTM, AFP, and filament winding. Optimized winding parameters reducing wrinkle formation and compaction defects by 15–20%, improved reproducibility of preforms, and validated via mechanical testing, DIC, and high-speed impact studies in compliance with ASTM, ECSS, and Airbus standards."
+description: "During my tenure as a **Research Assistant at the Lehrstuhl für Carbon Composites (LCC), TUM**, I was involved in the **end-to-end development, manufacturing, and validation of aerospace-grade CFRP structures**. My work spanned **composite processing, experimental characterization, numerical simulation, and failure analysis**, contributing to both academic research and industry-driven applications."
 skills:
   - CFRP manufacturing
   - VARTM / AFP / Filament Winding
@@ -15,8 +15,11 @@ main-image: /LCC.jpg
 ---
 
 ## Overview
-This project focused on the **design, manufacturing, and characterization of aerospace-grade CFRP laminates**. It targeted improvements in **production efficiency, material performance, and structural validation** through experimental and simulation-based methods, while adhering to **ASTM, ECSS, and Airbus AIPI standards**.
+During my tenure as a **Research Assistant at the Lehrstuhl für Carbon Composites (LCC), TUM**, I was involved in the **end-to-end development, manufacturing, and validation of aerospace-grade CFRP structures**. My work spanned **composite processing, experimental characterization, numerical simulation, and failure analysis**, contributing to both academic research and industry-driven applications.
 
+I manufactured CFRP laminates and structural components using **VARTM, AFP, and filament winding**, followed by comprehensive **mechanical testing** including tension, compression, bending, fatigue, and **cryogenic testing (–170°C)** in accordance with ASTM, DIN EN ISO, and ECSS standards. In parallel, I developed **finite element models (ABAQUS/ANSYS)** to simulate damage initiation and progression, incorporating **matrix cracking, interlaminar shear, and delamination mechanisms**, with strong correlation to experimental results.
+
+Failure behavior was systematically investigated using **optical microscopy and SEM**, linking microstructural features to observed macroscopic performance. The work was conducted in collaboration with **industrial partners (MTU, WARR)**, supporting **process optimization, defect characterization, and certification-oriented validation** aligned with **FAA/EASA and Airbus frameworks**.
 ## Manufacturing & Process Optimization
 - **VARTM, AFP, and filament winding** used to fabricate aerospace-relevant laminates.  
 - **Optimized filament winding machine parameters**, reducing wrinkle formation and compaction defects by **15–20%**, improving reproducibility and consistency of **both dry-fiber preforms and resin-impregnated laminates**.  
