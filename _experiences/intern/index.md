@@ -34,12 +34,6 @@ This work provided a strong foundation in **thermal stress management, fatigue c
 - Stress distribution in the centrifugal impeller under a **uniform thermal load of 850°C** using SS-316L material.  
 - Visualization highlights **regions of elevated thermal stress** and deformation tendencies under high-temperature conditions.
 
-### Turbojet Engine – Cycle Representation
-{% include image-gallery.html images="/Turbjet_ideal.png" height="350" %}
-
-- Schematic representation of an **ideal turbojet cycle**, illustrating variations in **pressure, temperature, and velocity** across engine components.  
-- Used to support understanding of **on-design and off-design performance behavior**.
-
 ## Notes
 - Detailed geometry, boundary conditions, and proprietary data are omitted due to **NDA constraints**.  
 - Work reflects **foundational exposure to propulsion systems and high-temperature structural analysis** in aerospace applications.
