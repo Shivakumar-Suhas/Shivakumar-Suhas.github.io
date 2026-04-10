@@ -41,13 +41,13 @@ This project focused on the **design, manufacturing, and characterization of aer
 ## Images
 
 ### Manufacturing & Processing
-{% include image-gallery.html images="/images/cfrp_laminates/Vaccumbag.jpg, /images/cfrp_laminates/winding.jpg" height="350" %}
+{% include image-gallery.html images="Vaccumbag.jpg, /winding.jpg" height="350" %}
 
 - **Vacuum bagging (VARTM):** Laminate preparation with resin infusion under controlled vacuum.  
 - **Filament winding:** Hollow cylindrical CFRP structure manufactured with optimized winding parameters.
 
 ### Mechanical Testing
-{% include image-gallery.html images="/images/cfrp_laminates/Bendingtest.jpg, /images/cfrp_laminates/Cryotest.jpg, /images/cfrp_laminates/ILSS_testsetup.png, /images/cfrp_laminates/splitdisk.jpg" height="350" %}
+{% include image-gallery.html images="/Bendingtest.jpg, /Cryotest.jpg, /ILSS_testsetup.png, /splitdisk.jpg" height="350" %}
 
 - **Bending test:** Flexural characterization of CFRP coupons.  
 - **Cryogenic testing:** Mechanical response evaluation at –170°C.  
