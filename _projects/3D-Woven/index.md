@@ -37,7 +37,6 @@ This project designed and analyzed an **8-layer 3D woven CFRP** (plain-weave) ta
 ## What to look for in images
 - **3D woven RVE (TexGen):** Yarn architecture representation capturing interlacing and through-thickness reinforcement.  
 - **L-stringer FE model:** Stress distribution and structural response under applied loading.  
-- Comparison basis highlighting improved **out-of-plane load transfer** relative to 2D laminates.
 
 ## Images
 {% include image-gallery.html images="/3d_woven.png, /Lstinger.png" height="400" %}
