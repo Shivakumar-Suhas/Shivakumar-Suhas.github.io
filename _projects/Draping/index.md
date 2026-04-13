@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implementation of a Machine-Learning Model to Optimize Composite Manufacturing"
-description: "With Premium AEROTEC, optimized draping/preforming of NCFs by combining experiments and ABAQUS drape simulation (87% predictive accuracy). Processed datasets (compaction, shear, wrinkle zones) and trained ML models reaching R²=0.94 and MAE=0.005 to reduce trial-and-error and material waste."
+description: "With Premium AEROTEC(Airbus Aerostructures), optimized draping/preforming of NCFs by combining experiments and ABAQUS drape simulation (87% predictive accuracy). Processed datasets (compaction, shear, wrinkle zones) and trained ML models reaching R²=0.94 and MAE=0.005 to reduce trial-and-error and material waste."
 skills: 
   - Composite manufacturing
   - Draping simulation
