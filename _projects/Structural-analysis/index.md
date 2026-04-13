@@ -12,7 +12,7 @@ skills:
   - Fracture mechanics
   - Data analysis
   - Material characterization
-main-image: /images/afp_defects_ml/main.jpg
+main-image: /AFP.png
 ---
 
 ## Background
@@ -40,8 +40,14 @@ AFP introduces **manufacturing defects** (gaps, overlaps, tow drops) that can de
 - **Residual-strength knockdown curves** vs. defect size & location.  
 - Process insight for **defect-tolerant design** and **NC programming** of AFP to minimize critical defects.
 
+## What to look for in images
+- **Defective laminate behavior:** Failure modes under compression highlighting defect sensitivity.  
+- **Defect configurations:** Placement of gaps/overlaps across different ply orientations (0°, 90°, ±45°).  
+- **FE boundary conditions:** Setup for tension and bending simulations ensuring representative loading.  
+- **Simulation results:** Strain field and displacement distribution across configurations showing defect-driven response variations.
+
 ## Images
-{% include image-gallery.html images="/images/afp_defects_ml/coupons.jpg, /images/afp_defects_ml/mesh_defect.jpg, /images/afp_defects_ml/correlation_plots.jpg" height="400" %}
+{% include image-gallery.html images="/Compressiontest.jpg, /Configuration.png, /tensionbc.png, /BC of Bending.png, /tensionsimu.png" height="400" %}
 
 ## Notes
 - The **cohesive/VCCT** setup captures **crack initiation and growth** across interfaces.  
