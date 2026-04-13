@@ -14,7 +14,7 @@ skills:
   - Laminate Optimization
   - Aerospace Structural Design
 
-main-image: /images/evtol_wingbox/main.jpg
+main-image: /mainevtol.jpg
 ---
 
 ## Overview
@@ -40,6 +40,13 @@ This work focuses on the **structural design and optimization of a CFRP wing box
 - Achieved a **weight-efficient CFRP wing box design** meeting structural stiffness and strength requirements.  
 - Optimized laminates provided improved **load distribution and torsional stiffness** under coupled loading conditions.  
 - Buckling constraints governed sizing in critical regions, ensuring **structural stability of thin-walled sections**.
+
+## What to look for in images
+- **Wing box FE model:** Meshing of skins, spar caps, and shear webs, highlighting element distribution and structural discretization.  
+- Representation of **load-carrying components** and modeling approach for capturing global stiffness and load transfer.
+
+## Images
+{% include image-gallery.html images="/wingbox_fem.png" height="400" %}
 
 ## Notes
 - The study assumes **idealized load cases and boundary conditions** representative of preliminary design stages.  
