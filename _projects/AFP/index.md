@@ -1,42 +1,45 @@
 ---
 layout: post
 title: "Structural and Modal Analysis of Composite Rotor Blades"
-description: "CATIA-based rotor geometry and ply-level FEM in ABAQUS using a [0/±45/90]s carbon/epoxy layup; structural simulations for hover and cyclic loading with modal analysis of flap/lag/torsion. Achieved ~28% weight reduction vs metallic baseline while maintaining FOS ≥ 2 (Hashin)."
+description: "Parametric design and ply-level FEM of a carbon/epoxy rotor blade using ABAQUS, including structural analysis under hover/cyclic loads and modal characterization (flap/lag/torsion). Achieved ~28% mass reduction vs metallic baseline while maintaining FOS ≥ 2 using Hashin criteria."
+
 skills: 
-  - Composite structures
+  - Composite Structures (CFRP)
   - FEM (ABAQUS)
-  - CATIA V5
-  - Modal analysis
-  - Rotordynamics
-  - Structural analysis
-  - CAD modeling
-main-image: /images/rotor_blade/main.jpg
+  - CAD Modeling (CATIA V5)
+  - Modal Analysis
+  - Rotorcraft Structures
+  - Structural Analysis (Static & Dynamic)
+  - Laminate Design
+
+main-image: /mainblade.jpg
 ---
 
 ## Overview
-This study evaluates a **carbon/epoxy composite rotor blade** relative to a metallic baseline, targeting **mass reduction** while preserving **strength and dynamic performance**.
+This work focuses on the **structural and dynamic analysis of a composite rotor blade**, targeting **mass reduction while maintaining strength and dynamic stability** relative to a metallic baseline. The study integrates **laminate design, finite element analysis, and modal characterization** under representative rotor operating conditions.
 
 ## Model Definition
-- **CAD:** detailed planform/twist/airfoil geometry in **CATIA V5**.  
-- **Layup:** **[0/±45/90]s** (spar/skin tailored for torsion/bending).  
-- **Material:** carbon/epoxy with orthotropic properties.
+- Developed a **parametric rotor blade geometry** including planform, twist distribution, and airfoil sections using **CATIA V5**.  
+- Defined a **composite layup [0/±45/90]s**, tailored for combined **bending and torsional loading**.  
+- Material modeled as **orthotropic carbon/epoxy**, capturing directional stiffness and strength.
 
 ## Loads & Boundary Conditions
-- **Hover** and **cyclic** operational envelopes considered.  
-- Root boundary conditions to reflect hub constraints.
+- Considered **hover and cyclic loading conditions** representative of rotor operation.  
+- Applied **root constraints** to simulate hub attachment and load transfer.
 
 ## Analyses
-- **Static strength** with **Hashin** failure initiation and progressive damage.  
-- **Modal analysis:** extraction of flap/lag/torsion modes and mode shapes.
+- **Static structural analysis** with **Hashin failure criteria** for initiation and progressive damage assessment.  
+- **Modal analysis** to extract natural frequencies and mode shapes, including **flap, lag, and torsional modes**.
 
-## Results & Metrics
-- **~28% weight reduction** vs metallic baseline.  
-- **FOS ≥ 2** across operating cases (Hashin checks).  
-- Modal analysis confirms adequate separation of primary modes for stability.
+## Results & Key Outcomes
+- Achieved **~28% mass reduction** compared to a metallic baseline.  
+- Maintained **factor of safety ≥ 2** across loading conditions.  
+- Modal results demonstrated **adequate separation of primary modes**, ensuring dynamic stability.
 
 ## Notes
-- Further extensions can include **aeroelastic coupling** and **transient loads** (maneuver/cycling), as needed.  
-- Manufacturing constraints (ply drape, minimum steering radii) can be integrated as a follow-on.
+- Detailed geometry, load magnitudes, and simulation outputs are **not presented due to NDA constraints**.  
+- Work focuses on **methodology, laminate design strategy, and structural validation approach**.  
+- Future extensions can include **aeroelastic coupling, transient loading, and fatigue life assessment**.
 
 
 
