@@ -12,7 +12,7 @@ skills:
   - Machine learning
   - Stress analysis
   - Scientific writing
-main-image: /images/ml_draping/main.jpg
+main-image: /PA.jpg
 ---
 
 ## Background
