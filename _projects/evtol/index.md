@@ -43,12 +43,12 @@ This work focuses on the **structural design and optimization of a CFRP wing box
 
 ## What to look for in images
 - **Wing box FE model:** Meshing of skins, spar caps, and shear webs, highlighting element distribution and structural discretization.  
-- Representation of **load-carrying components** and modeling approach for capturing global stiffness and load transfer.
 
 ## Images
 {% include image-gallery.html images="/wingbox_fem.png" height="400" %}
 
 ## Notes
+- Detailed simulation results and load data are **omitted due to NDA constraints**; focus is on modeling methodology and structural setup.
 - The study assumes **idealized load cases and boundary conditions** representative of preliminary design stages.  
 - Future work can include **aeroelastic coupling, fatigue assessment, and detailed joint design (fasteners/co-cured interfaces)**.  
 - Manufacturing considerations such as **ply draping and thickness transitions** can be further refined in detailed design stages.
