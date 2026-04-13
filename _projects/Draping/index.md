@@ -39,8 +39,14 @@ Non-Crimp Fabrics (NCFs) are widely used in aerospace preforms but are prone to 
 - Reduced **experimental iterations**, earlier detection of problematic regions, and **material savings**.  
 - Delivered a **decision aid** for preform process parameters.
 
+## What to look for in images
+- **Experimental setup:** Draping test configuration with controlled compaction and boundary conditions.  
+- **Draping experiment:** Wrinkle formation in carbon fiber UD NCF, with laser-based highlighting of deformation zones.  
+- **FE simulation:** Predicted shear distribution and wrinkle-prone regions from ABAQUS draping model.  
+- **ML prediction vs experiment:** Comparison of predicted wrinkle zones/severity against experimental observations.
+
 ## Images
-{% include image-gallery.html images="/images/ml_draping/bench.jpg, /images/ml_draping/fe_shear_map.jpg, /images/ml_draping/wrinkle_pred_vs_obs.jpg" height="400" %}
+{% include image-gallery.html images="/experimentalsetup.jpg, /drapingexp.JPG, /drapingsimu.png, /drapingml.png" height="400" %}
 
 ## Notes
 - Code: Python for data prep/feature engineering; ABAQUS scripts for batch runs.  
