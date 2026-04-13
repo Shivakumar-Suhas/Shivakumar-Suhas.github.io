@@ -15,7 +15,7 @@ skills:
   - Python / MATLAB (Workflow Automation)
   - Parametric Design Studies
 
-main-image: /images/rear_wing/main.jpg
+main-image: /F1rear.jpg
 ---
 
 ## Overview
@@ -44,6 +44,13 @@ This work focuses on the **aero-structural design and optimization of a CFRP For
 - Achieved **~20% mass reduction** compared to baseline design while maintaining **structural integrity and displacement limits**.  
 - Optimized laminate configurations improved **load distribution and stiffness under aerodynamic loading**.  
 - Identified critical regions prone to failure, enabling targeted reinforcement and efficient material usage.
+
+## What to look for in images
+- **Rear wing CAD model:** Aerodynamic profile and geometric definition of the main elements, including smooth surface transitions and curvature.  
+- **Structural response (main flap):** Qualitative stress/deformation distribution under aerodynamic loading, highlighting load-carrying regions.
+
+## Images
+{% include image-gallery.html images="/rearwingcad.png, /flap1result.png" height="400" %}
 
 ## Notes
 - Study assumes **steady aerodynamic conditions** representative of high-speed operation.  
