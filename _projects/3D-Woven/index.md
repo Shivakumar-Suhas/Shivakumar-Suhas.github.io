@@ -35,12 +35,12 @@ This project designed and analyzed an **8-layer 3D woven CFRP** (plain-weave) ta
 - Work **published**: Taylor & Francis (**DOI: 10.1201/9781003216742**).
 
 ## What to look for in images
-- Yarn-level schematic and equivalent orthotropic ply properties.  
-- CATIA L-stringer geometry and FE mesh.  
-- Load–displacement curves comparing 3D vs 2D laminates.
+- **3D woven RVE (TexGen):** Yarn architecture representation capturing interlacing and through-thickness reinforcement.  
+- **L-stringer FE model:** Stress distribution and structural response under applied loading.  
+- Comparison basis highlighting improved **out-of-plane load transfer** relative to 2D laminates.
 
 ## Images
-{% include image-gallery.html images="/3d_woven.jpg, /images/3d_woven/catia.jpg, /images/3d_woven/ansys_results.jpg" height="400" %}
+{% include image-gallery.html images="/images/3d_woven/3d_woven.png, /images/3d_woven/Lstinger.png" height="400" %}
 
 ## Notes
 - Material: carbon/epoxy; woven architecture tuned for **interlaminar performance**.  
