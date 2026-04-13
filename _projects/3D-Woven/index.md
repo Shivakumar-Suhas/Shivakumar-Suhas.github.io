@@ -13,7 +13,7 @@ skills:
   - Material characterization
   - Structural testing
   - Scientific writing
-main-image: /images/3d_woven/main.jpg
+main-image: /3dw.jpg
 ---
 
 ## Overview
@@ -40,7 +40,7 @@ This project designed and analyzed an **8-layer 3D woven CFRP** (plain-weave) ta
 - Comparison basis highlighting improved **out-of-plane load transfer** relative to 2D laminates.
 
 ## Images
-{% include image-gallery.html images="/images/3d_woven/3d_woven.png, /images/3d_woven/Lstinger.png" height="400" %}
+{% include image-gallery.html images="/3d_woven.png, /Lstinger.png" height="400" %}
 
 ## Notes
 - Material: carbon/epoxy; woven architecture tuned for **interlaminar performance**.  
