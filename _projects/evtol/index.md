@@ -42,7 +42,7 @@ This work focuses on the **structural design and optimization of a CFRP wing box
 - Buckling constraints governed sizing in critical regions, ensuring **structural stability of thin-walled sections**.
 
 ## What to look for in images
-- **Wing box FE model:** Meshing of skins, spar caps, and shear webs, highlighting element distribution and structural discretization.  
+- **Wing box FE model:** Meshing of wingbox.  
 
 ## Images
 {% include image-gallery.html images="/wingbox_fem.png" height="400" %}
