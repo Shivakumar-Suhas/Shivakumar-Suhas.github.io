@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research Assistant at LCC(Lehrstuhl für Carbon Composites), TUM"
+title: "Research Assistant at LCC(Lehrstuhl für Carbon Composites), TUM (July 2023 to March 2025)"
 description: "CFRP manufacturing, mechanical and cryogenic testing, FEA-based damage modeling, and failure analysis for aerospace structures, with industrial collaboration (MTU, WARR)."
 skills:
   - CFRP Manufacturing (VARTM, AFP, Filament Winding)
@@ -65,10 +65,11 @@ Failure behavior was systematically investigated using **optical microscopy and 
 - **Split disk test:** Post-failure specimen showing fracture behavior under radial loading.
 
 ### Simulation & Failure Analysis
-{% include image-gallery.html images="/OHTsimu.png, /surfacemicro.png, /drapingsimu.png" height="350" %}
+{% include image-gallery.html images="/OHTsimu.png, /surfacemicro.png, /microscopy.jpg, /drapingsimu.png" height="350" %}
 
 - **OHT simulation:** Open Hole Tension results showing matrix cracking and cohesive delamination damage.  
-- **Surface microscopy:** Fracture surface analysis revealing fiber-matrix failure mechanisms.
+- **Surface microscopy:** Fracture surface analysis revealing failure mechanisms.
+- **Microscopy(Fiber Analysis):**  Cross-sectional image used to assess fiber orientation and fiber volume fraction (Vf), highlighting fiber distribution, matrix regions, and local variations.
 - **Draping Simulation:** Curved CFRP fabric profile showing **SNEG (negative shear strain)** distribution, used to identify wrinkling-prone regions and optimize layup strategy.
 
 ---
