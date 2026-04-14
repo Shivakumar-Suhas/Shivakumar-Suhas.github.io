@@ -45,43 +45,58 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Structural & Aerospace Engineering
     tools:
-    - Solidworks
+    - Structural Analysis (Static & Dynamic)
+    - Finite Element Method (FEM)
+    - Aerospace Structural Design
+    - Load Case Definition & Validation
+    - Stress & Deformation Analysis
+    - Structural Optimization
+
+  - category: Composite Engineering
+    tools:
+    - CFRP Design & Manufacturing
+    - Laminate Design & Analysis
+    - Material Characterization
+    - Failure & Damage Analysis
+    - Composite Process Understanding (AFP, VARTM, Filament Winding)
+
+  - category: Tools & Software
+    tools:
+    - ABAQUS
+    - ANSYS (Mechanical, Fluent, ACP)
+    - CATIA V5
     - Siemens NX
-    - 3DExperience
-    - CATIA (Dassault Systèmes)
-  - category: Engineering Analysis Tools
+    - 3DEXPERIENCE Platform
+
+  - category: Programming & Data Analysis
     tools:
-    - ANSYS Mechanical
-    - ANSYS Fluent
-    - ABAQUS CAE
-    - 3DExperience
-    - ACP 
-    - MSC Nastran
-  - category: Design Standards / Practices
-    tools:
-    - Aircraft Structures CS-23/CS-25
-    - Space Standards ECSS-E-HB-32-20
-    - Composites ASTM, ISO, DIN   
-  - category: Programming Tools
-    tools:
-    - Matlab
     - Python
-    - C++ 
-  - category: Engineering Competencies
+    - MATLAB
+    - Data Analysis & Automation
+
+  - category: Engineering Practices
     tools:
-    - Static and Dynamic Structural Analysis
-    - Finite Element Method
-    - Structural Design
-    - Material Characterization of Composites
-    - Analytical stress calculation(HSB, Niu, Bruhn)
-    - Fracture Mechanics
-    - Composite Modeling 
-    - Delamination and Damage Tolerance Modeling
-    - Thermal Analysis
+    - Design for Manufacturability (DFM)
+    - Engineering Documentation & Reporting
+    - Root Cause Analysis (RCA)
+    - Process & Quality Awareness (ISO 9001)
+    - Cross-functional Collaboration
 
+  - category: Standards & Guidelines
+    tools:
+    - CS-23 / CS-25 (Aircraft Structures)
+    - ECSS (Space Standards)
+    - ASTM / ISO / DIN (Materials & Testing)
 
+  - category: Languages
+    tools:
+    - English (Fluent)
+    - German (B1–C1 progressing)
+    - Hindi (Advanced)
+    - Kannada (Mother Tongue)
+    - Telugu (Basic)
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
 formspree-key:   https://formspree.io/f/mdkloaep
 
