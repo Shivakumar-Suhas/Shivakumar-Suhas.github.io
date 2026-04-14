@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Engineering Intern – National Aerospace Laboratories (NAL), India"
+title: "Engineering Intern – National Aerospace Laboratories (NAL), India(June 2019 - August 2019)"
 description: "Thermal analysis of a centrifugal impeller (850°C, SS-316L) and turbojet performance evaluation under on-design and off-design conditions using ANSYS and Gasturb."
 
 skills: 
