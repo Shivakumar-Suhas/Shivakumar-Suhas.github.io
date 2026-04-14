@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Structural Engineer – Adithya Technologies (Apr 2025 – Present)"
-description: "Structural analysis and mechanical design of aerospace components using CATIA/NX and ABAQUS/ANSYS, with supporting experience in process optimization and quality assurance (ISO 9001)."
+description: "Structural analysis and mechanical design of aerospace components using CATIA/NX and ABAQUS/ANSYS, with exposure to composite structures and supporting experience in process and quality fundamentals (ISO 9001)."
 
 skills:
   - Structural Analysis (FEA – ABAQUS, ANSYS)
@@ -9,13 +9,13 @@ skills:
   - Stress & Deformation Analysis
   - Aerospace Structural Design
   - Load Case Definition & Validation
+  - Composite Structures (Basic)
   - Design for Manufacturability (DFM)
   - 3D Modeling & Assembly Design
   - Engineering Calculations & Reporting
   - Structural Optimization
-  - Process Improvement (Basic)
-  - Quality Assurance & ISO 9001 (Basic)
-  - Root Cause Analysis (RCA)
+  - Process & Quality Fundamentals (ISO 9001)
+  - Root Cause Analysis (Basic)
   - Cross-functional Engineering Coordination
 
 main-image: /aerospace.jpg
@@ -28,14 +28,17 @@ My primary responsibility involves **mechanical design and structural assessment
 
 I perform **finite element analyses (ABAQUS/ANSYS)** to evaluate **stress distribution, deformation behavior, and structural margins** under defined load cases, supporting design validation and iterative optimization. The work includes **interpretation of simulation results and correlation with engineering assumptions** to ensure robust structural performance.
 
-In addition, I prepare **calculation reports and technical documentation** to support internal design reviews and engineering decision-making. I have also contributed to **process improvement and quality-related activities**, including **basic root-cause analysis and ISO 9001 documentation support**, as well as coordination across **design, analysis, and manufacturing interfaces**.
+I also have **exposure to composite structures within the analysis workflow**, applying fundamental understanding of laminate behavior and material response where relevant to structural evaluation.
+
+In addition, I prepare **calculation reports and technical documentation** to support internal design reviews and engineering decision-making. I have also contributed to **process and quality-related activities**, including **basic root-cause analysis and ISO 9001 documentation support**, as well as coordination across **design, analysis, and manufacturing interfaces**.
 
 ## Key Contributions
 - Developed **parametric 3D models and assemblies** for aerospace components using CATIA V5 and Siemens NX.  
 - Performed **detailed FEM simulations** to assess structural integrity under realistic loading conditions.  
 - Supported **design optimization** through iterative analysis and engineering evaluation.  
+- Applied **fundamental composite understanding** in structural assessments where applicable.  
 - Prepared **technical reports and calculation summaries** for internal validation and review processes.  
-- Contributed to **process documentation, quality assurance workflows, and cross-functional coordination**.
+- Contributed to **process documentation, quality workflows, and cross-functional coordination**.
 
 ## Notes
 - Role performed remotely while based in **Germany**, supporting an **India-based engineering organization**. 
