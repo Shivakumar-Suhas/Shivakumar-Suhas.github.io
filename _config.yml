@@ -78,11 +78,11 @@ skills:
 
   - category: Engineering Practices
     tools:
+    - Engineering Documentation & Technical Reporting
     - Design for Manufacturability (DFM)
-    - Engineering Documentation & Reporting
-    - Root Cause Analysis (RCA)
-    - Process & Quality Awareness (ISO 9001)
-    - Cross-functional Collaboration
+    - Cross-functional Engineering Coordination
+    - Root Cause Analysis (Basic)
+    - Process & Quality Fundamentals (ISO 9001)
 
   - category: Standards & Guidelines
     tools:
