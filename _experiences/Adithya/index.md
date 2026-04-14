@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Structural Engineer – Adithya Technologies"
+title: "Structural Engineer – Adithya Technologies (Apr 2025 – Present)"
 description: "Structural analysis and mechanical design of aerospace components using CATIA/NX and ABAQUS/ANSYS, with supporting experience in process optimization and quality assurance (ISO 9001)."
 
 skills:
@@ -38,5 +38,5 @@ In addition, I prepare **calculation reports and technical documentation** to su
 - Contributed to **process documentation, quality assurance workflows, and cross-functional coordination**.
 
 ## Notes
-- Work performed in a **remote engineering setup (India–Germany collaboration)**.  
+- Role performed remotely while based in **Germany**, supporting an **India-based engineering organization**. 
 - Exposure to **process and quality engineering** complements core structural analysis responsibilities.
