@@ -15,7 +15,9 @@ title: Suhas M Shivakumar # This is what shows up in the tab of the browser
 name: Suhas Shivakumar
 headline: Aerospace Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
+
 Structural Engineer with 3 years of experience in aerospace structures and FEM-based simulation. Currently working at Adithya Technologies, specializing in stress analysis and structural validation using ABAQUS, ANSYS, CATIA V5, and Siemens NX. Background in CFRP composites, including manufacturing, testing, and failure analysis, with experience in load case definition and certification-oriented design.
+
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar1.jpeg
 
