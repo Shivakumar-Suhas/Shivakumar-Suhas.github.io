@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Structural Engineer – Adithya Technologies (Apr 2025 – Apr 2026)"
+title: "Structural Engineer – Adithya Industries (Apr 2025 – Apr 2026)"
 description: "Structural analysis and mechanical design of aerospace components using CATIA/NX and ABAQUS/ANSYS, with exposure to composite structures and supporting experience in process and quality fundamentals (ISO 9001)."
 
 skills:
